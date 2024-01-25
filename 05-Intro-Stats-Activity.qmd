@@ -1,3 +1,10 @@
+---
+title: "Intro Stats Activity"
+format:
+  html: 
+    self-contained: true
+---
+
 # Intro Stats Activity {#statsactivity}
 
 Address each of the questions in the code chunk below and/or by typing outside the chunk (for written answers).
