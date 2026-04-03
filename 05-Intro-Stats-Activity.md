@@ -3,7 +3,27 @@ title: 'Chapter 5: Intro Stats Activity'
 date: 2026-03-23T00:00:00.000Z
 authors:
   - id: jpgannon
+    name: JP Gannon
+    email: jpgannon@vt.edu
+    github: jpgannon
+    orcid: 0000-0002-4595-3214
+    corresponding: true
+    url: https://jpgannon.github.io/
+    affiliations:
+      - vt-tech
+affiliations:
+  - id: vt-tech
+    name: Virginia Tech
+    url: https://www.vt.edu/
+subject: Courseware
+doi: https://doi.org/10.4211/hs.f6ff902b66224da99fdfb547b26dc018
+venue:
+  title: View Resource on HydroShare
+  url: https://hydroshare.org/resource/f6ff902b66224da99fdfb547b26dc018/
 github: https://github.com/VT-Hydroinformatics/5-Intro-Stats-Activity
+downloads:
+  - file: 05-Intro-Stats-Activity.md
+  - file: 05-Intro-Stats-Activity.pdf
 ---
 
 
